@@ -1,0 +1,3 @@
+# Project exclude paths
+/design-autoconfigure/target/
+/design-starter/target/
